@@ -1,0 +1,1 @@
+A just-for-fun mp3 player made with JRuby. Currently supports only mp3 and no playlists.
